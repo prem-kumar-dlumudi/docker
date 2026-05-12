@@ -1,6 +1,6 @@
 FROM almalinux:9
 LABEL COURSE="DOCKER"\
-        AUTHOR="Doc"\
+        AUTHOR="DevSecOps"\
        TRAINER="SIVA KUMAR"\
-       EMAIL="siva@joindevops.com"\
+       EMAIL="prem007ias@gmail.com"\
        DURATION="4 Months"  
