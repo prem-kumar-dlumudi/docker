@@ -1,3 +1,4 @@
 FROM almalinux:9
 ENV MONGO_URI="mongodb-dev.4sinfotech.in"\
+    MONGO_DB="mydb"\
     MONGO_USER="admin"
